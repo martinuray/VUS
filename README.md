@@ -29,6 +29,7 @@ If you use VUS in your project or research, cite the following papers:
 * [VLDB 2022a](https://www.paparrizos.org/papers/PaparrizosVLDB22a.pdf)
 * [VLDB 2022b](https://www.paparrizos.org/papers/PaparrizosVLDB22b.pdf)
 * [NeurIPS 2024](https://openreview.net/pdf?id=R6kJtWsTGy)
+* [VLDBJ 2025](https://arxiv.org/abs/2502.13318)
 
 ## References
 
@@ -79,6 +80,26 @@ If you use VUS in your project or research, cite the following papers:
   year={2024}
 }
 
+```
+
+> "VUS: effective and efficient accuracy measures for time-series anomaly detection"<br/>
+> Paul Boniol, Ashwin K. Krishna, Marine Bruel, Qinghua Liu, Mingyi Huang, Themis Palpanas, Ruey S. Tsay, Aaron Elmore, Michael J. Franklin, and John Paparrizos<br/>
+> VLDBJ 2025<br/>
+
+```bibtex
+@article{10.1007/s00778-025-00907-x,
+author = {Boniol, Paul and Krishna, Ashwin K. and Bruel, Marine and Liu, Qinghua and Huang, Mingyi and Palpanas, Themis and Tsay, Ruey S. and Elmore, Aaron and Franklin, Michael J. and Paparrizos, John},
+title = {VUS: effective and efficient accuracy measures for time-series anomaly detection},
+year = {2025},
+issue_date = {May 2025},
+volume = {34},
+number = {3},
+issn = {1066-8888},
+doi = {10.1007/s00778-025-00907-x},
+journal = {The VLDB Journal},
+month = mar,
+numpages = {26},
+}
 ```
 
 ## Data
